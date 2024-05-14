@@ -1,0 +1,17 @@
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\bin\Debug\Logica.dll
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\bin\Debug\Logica.pdb
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\bin\Debug\Datos.dll
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\bin\Debug\EASendMail.dll
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\bin\Debug\Entidad.dll
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\bin\Debug\System.Data.SqlClient.dll
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\bin\Debug\Datos.pdb
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\bin\Debug\Entidad.pdb
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\bin\Debug\System.Data.SqlClient.xml
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\obj\Debug\Logica.dll
+C:\Users\KENIER\Desktop\ProyectoNutricion-master\Logica\obj\Debug\Logica.pdb
